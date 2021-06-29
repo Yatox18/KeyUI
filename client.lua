@@ -1,4 +1,4 @@
-RegisterCommand('touche', function()
+RegisterCommand('key', function()
   Citizen.CreateThread(function()
     local display = true
     local startTime = GetGameTimer()
