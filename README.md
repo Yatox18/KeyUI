@@ -2,7 +2,7 @@
 
 # FR
 - UI pour FiveM fait en HTML et JS principalement ouvrable via une commande (/key) permettant d'afficher les différentes touches disponibles sur votre serveur
-- Ceci est mon premier UI qui m'a permis de m'exercer 
+- Ceci est mon premier fait en UI qui m'a permis de m'exercer 
 - Pour tout support: Yatox#3203 
 
 # EN
