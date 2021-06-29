@@ -8,7 +8,7 @@
 # EN
 - UI for FiveM made in HTML and JS mainly open via a command (/ key) to display the different keys available on your server
 - First UI made to practice
-- Pour tout support: Yatox#3203 
+- For any question Yatox#3203
 
 
 # Preview
